@@ -10,7 +10,7 @@ name: 백승호
 title: Backend Engineer
 email: tmdgh784@naver.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-7151-1703
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -52,7 +52,7 @@ github_username:  BSHkr
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/정복사진.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  2년 4개월간 통신장교로 군 복무를 하였으며, 해당 기간동안 통신소대장, 통신중대장 직책을 수행하며 부대 내 전장망에 대한 전반적인 관리를 도맡아 하였습니다.
+  
 
 content:
   - title: Projects # Title for the section
