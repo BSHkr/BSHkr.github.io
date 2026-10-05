@@ -78,7 +78,6 @@ content:
   - title: Experience
     layout: list
     content:
-      - 세종대학교 Online Judge 시스템 총괄 관리자('22.08 ~ '25.02)
       - layout: right
         title: Company name
         sub_title: Job title
@@ -87,6 +86,7 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
+          세종대학교 Online Judge 시스템 총괄 관리자('22.08 ~ '25.02)
           Description of role
   - title: Education
     layout: list
