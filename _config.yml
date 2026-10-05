@@ -87,7 +87,8 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           세종대학교 Online Judge 시스템 총괄 관리자('22.08 ~ '25.02)
-          Description of role
+          
+          대한민국 육군 장교 복무중('25.03 ~ 현재)
   - title: Education
     layout: list
     content:
@@ -98,7 +99,7 @@ content:
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          세종대학교 입학 및 졸업('21.03 ~ '25.02)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
